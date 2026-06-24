@@ -1,6 +1,6 @@
-# 🚀 ARCHON 3.0
+# ARCHON 3.0
 
-Early Multi-Agent Orchestration Prototype for AI Software Execution
+Multi-agent orchestration prototype for coordinating planning, execution, review, and handoff across LLM-driven software tasks.
 
 ---
 
