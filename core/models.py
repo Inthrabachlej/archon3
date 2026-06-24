@@ -41,7 +41,7 @@ class DeploymentPlan(BaseModel):
 class ArchitectureBlueprint(BaseModel):
     project_name: str
     execution_order: List[str]
-    module_specs: Dict[str, Dict[str, Any]]
+    module_specs: Dict[str, ModuleSpec]
     integration_plan: Dict[str, Any]
     dependency_graph: Dict[str, List[str]]
 
